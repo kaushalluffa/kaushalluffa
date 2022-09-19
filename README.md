@@ -15,7 +15,7 @@ I have been learning coding for more than 2 years now and I completed a Bootcamp
 * ⚡  I love to travel and meet people so if anyone near around my area wants to meetup send me an email so can talk and meet
 
 <a href="https://www.github.com/kaushalluffa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kaushalluffa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/kaushalluffa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br/>
 <a href="https://app.daily.dev/kaushalluffa"><img src="https://api.daily.dev/devcards/9bd3eb00761941cbbdcbb0388c4d1300.png?r=9vw" width="400" alt="Kaushal Luffa's Dev Card"/></a>
 
 ### Skills
