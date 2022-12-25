@@ -9,7 +9,7 @@ I have been learning coding for more than 2 years now and I completed a Bootcamp
 * 🌍  I'm based in Brampton, Ontario
 * 🖥️  See my portfolio at [KaushalLuffa.ca](http://kaushalluffa.ca)
 * ✉️  You can contact me at [kaushalluffa91@gmail.com](mailto:kaushalluffa91@gmail.com)
-* 🚀  I'm currently working on [Mister Olu](http://misterolu.com)
+* 🚀  This is my second repo where i have my school projects. https://github.com/kaushal0110
 * 🧠  I'm learning NodeJs and backend technologies to advance my skills
 * 🤝  I'm open to collaborating on ReactJs projects, simple JavaScript projects and any kind of HTML and CSS projects
 * ⚡  I love to travel and meet people so if anyone near around my area wants to meetup send me an email so can talk and meet
