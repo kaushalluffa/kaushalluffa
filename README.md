@@ -1,23 +1,3 @@
-Hi 👋 My name is Kaushal Luffa
-==============================
-
-Front End Web Developer
------------------------
-
-I have been learning coding for more than 2 years now and I completed a Bootcamp with BrainStation. I started with HTML and CSS but I was more fascinated by JavaScript which made me learn ReactJs and now I build websites in ReactJs.
-
-* 🌍  I'm based in Brampton, Ontario
-* 🖥️  See my portfolio at [KaushalLuffa.ca](http://kaushalluffa.ca)
-* ✉️  You can contact me at [kaushalluffa91@gmail.com](mailto:kaushalluffa91@gmail.com)
-* 🚀  This is my second repo where i have my school projects. https://github.com/kaushal0110
-* 🧠  I'm learning NodeJs and backend technologies to advance my skills
-* 🤝  I'm open to collaborating on ReactJs projects, simple JavaScript projects and any kind of HTML and CSS projects
-* ⚡  I love to travel and meet people so if anyone near around my area wants to meetup send me an email so can talk and meet
-
-<a href="https://www.github.com/kaushalluffa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kaushalluffa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br/>
-<a href="https://app.daily.dev/kaushalluffa"><img src="https://api.daily.dev/devcards/9bd3eb00761941cbbdcbb0388c4d1300.png?r=9vw" width="400" alt="Kaushal Luffa's Dev Card"/></a>
-
 ### Skills
 
 <p align="left">
