@@ -1,3 +1,4 @@
+<a href="https://kluffa-portfolio.netlify.app/" target="_blank" rel="noreferrer">Portfolio</a>
 ### Skills
 
 <p align="left">
