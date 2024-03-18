@@ -1,4 +1,4 @@
-<a href="https://kluffa-portfolio.netlify.app/" target="_blank" rel="noreferrer">Portfolio</a>
+### [Portfolio](https://kaushal-luffa.netlify.app)
 ### Skills
 
 <p align="left">
