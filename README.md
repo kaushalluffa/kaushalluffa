@@ -1,4 +1,7 @@
 ### [Portfolio](https://kaushal-luffa.netlify.app)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662423f4e699ec2b9b2b057f?variant=dark)](https://roadmap.sh)
+
 ### Skills
 
 <p align="left">
