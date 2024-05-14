@@ -1,4 +1,5 @@
 ### [Portfolio](https://kaushal-luffa.netlify.app)
+### [Github Style Portfolio](https://kaushalluffa.github.io)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/662423f4e699ec2b9b2b057f?variant=dark)](https://roadmap.sh)
 
