@@ -1,5 +1,4 @@
 ### [Portfolio](https://kaushal-luffa.netlify.app)
-### [Github Style Portfolio](https://kaushalluffa.github.io)
 
 ### Skills
 
