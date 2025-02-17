@@ -1,4 +1,4 @@
-### [Portfolio](https://kaushal-luffa.netlify.app)
+### [Portfolio](https://kaushal-luffa.vercel.app)
 
 ### Skills
 
