@@ -225,12 +225,12 @@ _Real-time messaging, video calls, channels, member management with Socket.io_
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushalluffa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kaushalluffa&theme=radical&hide_border=true&background=0D1117&ring=A960FF&fire=F8D866&currStreakLabel=A960FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaushalluffa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=kaushalluffa&theme=radical&hide_border=true&background=0D1117&ring=A960FF&fire=F8D866&currStreakLabel=A960FF" alt="GitHub Streak"/>
   
   <br/>
   
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalluffa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaushalluffa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
   <br/><br/>
   
